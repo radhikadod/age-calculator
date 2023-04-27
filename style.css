@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+}
+body{
+    background-color: paleturquoise;
+}
+
+h2 {
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 2px;
+    color: gold;
+    margin-right: 350px;
+    
+    
+}
+#submit {
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+    padding: 13px;
+    margin-left: 500px;
+    width: 153px;
+    margin-top: 50px;
+    border-color: darkcyan;
+    font-size: large;
+    font-weight: bold;
+
+    
+}
+#submit:hover {
+    background-color: rgb(83,83, 82);
+
+
+}
+#reset {
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+    padding: 13px;
+    margin-left: 20px;
+    width: 100px;
+    margin-top: 30px;
+    border-color: darkcyan;
+    font-size: large;
+    font-weight: bold;
+}
+#reset :hover{
+    background-color: rgb(83,83, 82);
+}
+
+input{
+    border-radius: 10px;
+    font-size: large;
+    background-color: darkgray;
+    font-weight: bold;
+}
+.ageform {
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-right: 150px;
+    background-color:#0e2f2f ;
+    border-radius: 30px;
+    font-size: larger;
+}
+label {
+    font-size: larger;
+    margin-left: 490px;
+}
+p {
+    margin-left: 490px;
+    margin-top: 50px;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 75px;
+}
+nav {
+    margin-left: 550px;
+    font-size: x-large;
+    word-spacing: 20px;
+}
